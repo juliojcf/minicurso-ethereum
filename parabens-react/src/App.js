@@ -23,7 +23,7 @@ const App = () => {
     // Pega o valor total vinculado ao contrato
     const _saldo = await web3.eth.getBalance(parabens.options.address);
 
-    // Armazena os valores nas variáveis de gerente, jogador e saldo
+    // Armazena os valores nas variáveis de aniversariante e saldo
     setAniversariante(_aniversariante);
     setMensagem("");
     setSaldo(_saldo);
