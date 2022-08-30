@@ -20,7 +20,7 @@
 - Comentar a linha module.exports e descomentar a linha console.log ao final do compile.js;
 - Compilar o contrato inteligente (node compile.js);
 - Comentar a linha console.log e descomentar a linha module.exports ao final do compile.js;
-- Configurar a versão do openssl para evitar erros de incompatibilidade (export NODE_OPTIONS=--openssl-legacy-provider);
+- Em caso da versão do Node.js não ser a atual, configurar a versão do openssl para evitar erros de incompatibilidade (export NODE_OPTIONS=--openssl-legacy-provider);
 - Implementação do contrato inteligente (node deploy.js);
 - Copiar o endereço do contrato inteligente e guardá-lo!
 
