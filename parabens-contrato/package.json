@@ -1,0 +1,17 @@
+{
+  "name": "parabens",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.0.14",
+    "dotenv": "^16.0.1",
+    "solc": "^0.8.16",
+    "web3": "^1.7.5"
+  }
+}
