@@ -35,3 +35,5 @@
 - Para evitar erros de incompatibilidade, alterar a versão do react-scripts no package.json para uma versão mais antiga (como a 4.0.3);
 - Instalação de dependências restantes (npm install --save);
 - Execução do DApp (npm start).
+
+No fim, responder ao questionário final!
