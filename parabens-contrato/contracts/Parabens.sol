@@ -11,7 +11,7 @@ contract Parabens{
     }
 
     function doaValor() public payable {
-        require(msg.value >= 0.1 ether);
+        require(msg.value >= 0.01 ether);
         doadores.push(payable(msg.sender));
     }
 
