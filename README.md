@@ -9,3 +9,5 @@ Links: https://sol.sbc.org.br/livros/index.php/sbc/catalog/view/64/281/530-1 (ca
 
 - Questionário inicial: https://forms.gle/1kAgWtLzLcNdr4dH7
 - Questionário final: https://forms.gle/tkwdrN2pLfaxRkcB8
+
+https://docs.google.com/document/d/1cCFWFbl2CkROt0MFY6Ub0PIkOUib-PfnjryEw03WucE/edit?usp=sharing
